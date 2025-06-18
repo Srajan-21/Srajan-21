@@ -54,7 +54,7 @@ I love learning by building and sharing.
 ### 🌐 Connect with Me
 
 - 📫 Email: srivasrajan8@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/srajan-srivastava)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srajan-srivastava)
 
 ---
 
