@@ -33,6 +33,5 @@ Welcome to my GitHub! I'm passionate about software development, DSA, and buildi
 
 ### 🌐 Connect with Me
 
-- 📫 Email: your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📝 [Portfolio](https://your-portfolio-link.com)
+- 📫 Email: srivasrajan8@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srajan-srivastava)  
