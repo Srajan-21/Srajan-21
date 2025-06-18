@@ -1,13 +1,14 @@
 ### 👋 Hello, I'm Srajan Srivastava
 
-I’m a developer passionate about C++, DSA, web development, and open-source collaboration. I love learning by building and sharing.
+I’m a developer passionate about **C++**, **Data Structures & Algorithms**, **Web Development**, and **Open Source**.  
+I love learning by building and sharing.
 
 ---
 
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Srajan-21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Srajan-21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -18,6 +19,22 @@ I’m a developer passionate about C++, DSA, web development, and open-source co
   <img src="https://github-readme-stats.vercel.app/api?username=Srajan-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srajan-21&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📆 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajan-21&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -38,3 +55,11 @@ I’m a developer passionate about C++, DSA, web development, and open-source co
 
 - 📫 Email: srivasrajan8@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/srajan-srivastava)  
+
+---
+
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srajan-21&label=Profile%20views&color=blueviolet&style=flat" alt="Visitor Counter" />
+</p>
