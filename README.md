@@ -1,25 +1,28 @@
-### 👋 Hi there! I'm Srajan Srivastava
+### 👋 Hello, I'm Srajan Srivastava
 
-Welcome to my GitHub! I'm passionate about software development, DSA, and building cool projects. Here's a glimpse of my journey:
+I’m a developer passionate about C++, DSA, web development, and open-source collaboration. I love learning by building and sharing.
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 🔥 GitHub Contribution Streak
 
-<!-- GitHub Streaks -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajan-21&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srajan-21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-21&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Srajan-21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 Technologies & Tools
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srajan-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
