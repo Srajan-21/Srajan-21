@@ -1,45 +1,11 @@
-### 👋 Hello, I'm Srajan Srivastava
+### 👋 Hi there, I'm Srajan Srivastava
 
-I’m a developer passionate about **C++**, **Data Structures & Algorithms**, **Web Development**, and **Open Source**.  
-I love learning by building and sharing.
-
----
-
-### 🔥 GitHub Contribution Streak
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajan-21&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" /></p>
+I'm a passionate **developer** focused on **C++**, **Data Structures & Algorithms**, **Full Stack Web Development**, and contributing to **Open Source**.  
+I love learning by building projects and sharing knowledge with the community.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srajan-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srajan-21&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📆 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srajan-21&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 🚀 Languages & Tools
+### 🚀 Tech Stack & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,14 +17,32 @@ I love learning by building and sharing.
 
 ---
 
-### 🌐 Connect with Me
+### 📈 GitHub Stats
 
-- 📫 Email: srivasrajan8@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/srajan-srivastava)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srajan-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srajan-21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 👁️ Visitor Counter
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srajan-21&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: [srivasrajan8@gmail.com](mailto:srivasrajan8@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srajan-srivastava)
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Srajan-21&label=Profile%20views&color=blueviolet&style=flat" alt="Visitor Counter" />
