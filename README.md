@@ -196,16 +196,6 @@ Worked on the evaluation and refinement layer of LLM-generated software — ensu
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Srajan-21&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4&row=2"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
