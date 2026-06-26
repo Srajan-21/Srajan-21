@@ -32,9 +32,9 @@
 
 ## 📌 About Me
 
-<div align="center">
+<div align="left">
 
-I'm a final-year **Information Technology** undergraduate and **Full Stack Developer** focused on building production-grade web applications with integrated AI capabilities. My work spans designing scalable database architectures, building secure RESTful APIs, deploying cloud infrastructure on AWS, and embedding LLM-powered features (OpenAI / Gemini APIs) into real products used by real users.
+I'm a **Information Technology** Graduate and **Full Stack Developer** focused on building production-grade web applications with integrated AI capabilities. My work spans designing scalable database architectures, building secure RESTful APIs, deploying cloud infrastructure on AWS, and embedding LLM-powered features (OpenAI / Gemini APIs) into real products used by real users.
 
 I approach engineering with a **product mindset** — optimizing not just for working code, but for performance, security, and measurable user impact. As an **AI Trainer**, I've also spent time on the other side of the stack: rigorously evaluating and debugging LLM-generated code for correctness, efficiency, and architectural soundness.
 
