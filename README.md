@@ -200,7 +200,7 @@ Worked on the evaluation and refinement layer of LLM-generated software — ensu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Srajan-21&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Srajan-21&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4&row=2"/>
 
 </div>
 
@@ -223,8 +223,6 @@ Worked on the evaluation and refinement layer of LLM-generated software — ensu
 <img src="https://raw.githubusercontent.com/Srajan-21/Srajan-21/output/github-contribution-grid-snake.svg"/>
 
 </div>
-
-> **Note:** The snake animation requires the `github-contribution-grid-snake` GitHub Action to be set up on the `Srajan-21/Srajan-21` repository to generate the `output` branch and SVG.
 
 ---
 
