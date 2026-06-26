@@ -32,7 +32,7 @@
 
 ## 📌 About Me
 
-<div align="left">
+<div align="justify">
 
 I'm a **Information Technology** Graduate and **Full Stack Developer** focused on building production-grade web applications with integrated AI capabilities. My work spans designing scalable database architectures, building secure RESTful APIs, deploying cloud infrastructure on AWS, and embedding LLM-powered features (OpenAI / Gemini APIs) into real products used by real users.
 
